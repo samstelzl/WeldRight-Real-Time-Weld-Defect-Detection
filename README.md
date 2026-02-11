@@ -1,6 +1,4 @@
 # WeldRight-Real-Time-Weld-Defect-Detection
-AI-powered real-time weld defect detection system using acoustic sensing, EMI-hardened signal conditioning, and machine learning.
-WeldRight – Real-Time Acoustic Weld Defect Detection
 
 WeldRight is an AI-powered system that detects weld defects in real-time using acoustic sensing and machine learning.
 
