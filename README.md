@@ -7,7 +7,8 @@ WeldRight is an AI-powered system that detects weld defects in real-time using a
 This repository contains the full technical documentation for the V0 prototype, including system architecture, enclosure design, electrical schematics, microphone mounting, verification testing, and ML development.
 
 📄 **Full Technical Report:**  
-[View the Final Report (PDF)](./Final Technical Report.pdf)
+[View the Final Report (PDF)](.WeldRight-Real-Time-Weld-Defect-Detection/WeldRight_Technical_Report.pdf)
+
 Problem:
 
 Traditional weld inspection occurs after welding is complete, leading to costly rework and downtime. The goal of WeldRight was to create a non-intrusive add-on system capable of detecting weld defects during the welding process.
